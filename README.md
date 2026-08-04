@@ -37,7 +37,7 @@ The website serves as a digital resume that can be easily shared with potential 
   - `overflow: hidden` technique for the breaking-out circle effect
 
 ## Website Link
-- 
+-  https://visarmiento.github.io/Resume-Web/
 
 ## GitHub Repository
 - https://github.com/ViSarmiento/Resume-Web.git
