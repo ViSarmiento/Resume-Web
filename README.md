@@ -40,4 +40,4 @@ The website serves as a digital resume that can be easily shared with potential 
 - 
 
 ## GitHub Repository
-- https://github.com/ViSarmiento/Resume_Web.git
+- https://github.com/ViSarmiento/Resume-Web.git
